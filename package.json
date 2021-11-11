@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  },
+  "name": "wild-world",
+  "version": "1.0.0",
+  "description": "My project",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuliia Shevchenko",
+  "license": "ISC"
+}
